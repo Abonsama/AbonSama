@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mohamed and I'm a Front End Developer, from Sudan</h2>
+<h2 align="left">Hi 👋! My name is Mohamed and I'm a Front End Developer, from Sudan🇸🇩</h2>
 
 ###
 
@@ -7,10 +7,6 @@
   <img src="https://streak-stats.demolab.com?user=Abonsama&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abonsama&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif?cid=ecf05e47mujlk6rm0t8hobo27gv8u2d3ohpvspox9jzowjvh&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
@@ -38,9 +34,7 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Abonsama/Abonsama/output/snake.svg" alt="Snake animation" />
+<img align="right" height="150" src="https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif?cid=ecf05e47mujlk6rm0t8hobo27gv8u2d3ohpvspox9jzowjvh&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
